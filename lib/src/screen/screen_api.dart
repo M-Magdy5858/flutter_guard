@@ -1,4 +1,4 @@
-import 'package:flutter_guard/src/screen/screen_platform.dart';
+import 'package:flutter_secure_guard/src/screen/screen_platform.dart';
 
 /// Screen capture protection. Access it through [FlutterGuard.screen].
 class ScreenApi {

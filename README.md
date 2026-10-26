@@ -1,4 +1,4 @@
-# flutter_guard
+# flutter_secure_guard
 
 Screen capture protection and device integrity checks for Flutter apps.
 
@@ -16,7 +16,7 @@ Screen capture protection and device integrity checks for Flutter apps.
 ## Installation
 
 ```bash
-flutter pub add flutter_guard
+flutter pub add flutter_secure_guard
 ```
 
 No extra Android or iOS setup is needed.
@@ -24,7 +24,7 @@ No extra Android or iOS setup is needed.
 ## Usage
 
 ```dart
-import 'package:flutter_guard/flutter_guard.dart';
+import 'package:flutter_secure_guard/flutter_secure_guard.dart';
 ```
 
 ### Screen protection

@@ -1,6 +1,6 @@
 import 'package:flutter/services.dart';
-import 'package:flutter_guard/src/errors.dart';
-import 'package:flutter_guard/src/screen/screen_platform.dart';
+import 'package:flutter_secure_guard/src/errors.dart';
+import 'package:flutter_secure_guard/src/screen/screen_platform.dart';
 
 class ScreenMethodChannel extends ScreenPlatform {
   final _channel = const MethodChannel("flutter_guard/screen");

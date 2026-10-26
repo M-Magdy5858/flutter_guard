@@ -4,19 +4,19 @@
 import PackageDescription
 
 let package = Package(
-    name: "flutter_guard",
+    name: "flutter_secure_guard",
     platforms: [
         .iOS("13.0")
     ],
     products: [
-        .library(name: "flutter-guard", targets: ["flutter_guard"])
+        .library(name: "flutter-secure-guard", targets: ["flutter_secure_guard"])
     ],
     dependencies: [
         .package(name: "FlutterFramework", path: "../FlutterFramework")
     ],
     targets: [
         .target(
-            name: "flutter_guard",
+            name: "flutter_secure_guard",
             dependencies: [
                 .product(name: "FlutterFramework", package: "FlutterFramework")
             ],

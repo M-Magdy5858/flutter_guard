@@ -1,8 +1,8 @@
-name: flutter_guard
+name: flutter_secure_guard
 description: "Protect sensitive screens from screenshots and screen recording, and detect rooted/jailbroken devices, emulators, debuggers and hooking frameworks."
 version: 0.1.0
-repository: https://github.com/YOUR_GITHUB_USERNAME/flutter_guard
-issue_tracker: https://github.com/YOUR_GITHUB_USERNAME/flutter_guard/issues
+repository: https://github.com/YOUR_GITHUB_USERNAME/flutter_secure_guard
+issue_tracker: https://github.com/YOUR_GITHUB_USERNAME/flutter_secure_guard/issues
 topics:
   - security
   - screenshot

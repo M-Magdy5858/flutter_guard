@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'dart:async';
 
 import 'package:flutter/services.dart';
-import 'package:flutter_guard/flutter_guard.dart';
+import 'package:flutter_secure_guard/flutter_secure_guard.dart';
 
 void main() {
   runApp(const MyApp());

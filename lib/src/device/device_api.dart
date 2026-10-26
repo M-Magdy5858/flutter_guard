@@ -1,5 +1,5 @@
-import 'package:flutter_guard/src/device/device_platform.dart';
-import 'package:flutter_guard/src/device/integrity_report.dart';
+import 'package:flutter_secure_guard/src/device/device_platform.dart';
+import 'package:flutter_secure_guard/src/device/integrity_report.dart';
 
 /// Device integrity checks. Access it through [FlutterGuard.device].
 class DeviceApi {

@@ -1,4 +1,4 @@
-import 'package:flutter_guard/src/screen/screen_method_channel.dart';
+import 'package:flutter_secure_guard/src/screen/screen_method_channel.dart';
 
 abstract class ScreenPlatform {
   static ScreenPlatform instance = ScreenMethodChannel();

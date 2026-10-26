@@ -1,6 +1,6 @@
 import 'package:flutter/services.dart';
 
-/// Thrown when a flutter_guard platform call fails.
+/// Thrown when a flutter_secure_guard platform call fails.
 class FlutterGuardException implements Exception {
   FlutterGuardException(this.code, this.message);
 

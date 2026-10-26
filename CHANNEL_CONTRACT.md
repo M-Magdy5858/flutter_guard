@@ -1,4 +1,4 @@
-# flutter_guard — Platform Channel Contract
+# flutter_secure_guard — Platform Channel Contract
 
 Every message between Dart and native. Dart, Android and iOS must all match this file.
 

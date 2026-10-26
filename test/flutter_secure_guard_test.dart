@@ -1,6 +1,6 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:flutter_guard/flutter_guard.dart';
+import 'package:flutter_secure_guard/flutter_secure_guard.dart';
 
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();

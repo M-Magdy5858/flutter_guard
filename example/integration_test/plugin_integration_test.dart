@@ -7,7 +7,7 @@
 import 'package:flutter_test/flutter_test.dart';
 import 'package:integration_test/integration_test.dart';
 
-import 'package:flutter_guard/flutter_guard.dart';
+import 'package:flutter_secure_guard/flutter_secure_guard.dart';
 
 void main() {
   IntegrationTestWidgetsFlutterBinding.ensureInitialized();
